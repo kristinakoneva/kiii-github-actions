@@ -1,2 +1,2 @@
 # kiii-github-actions
-CI/CD Course
+Docker Hub: https://hub.docker.com/r/kristinakoneva/kiii-github-actions
